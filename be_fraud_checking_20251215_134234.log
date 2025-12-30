@@ -1,0 +1,8 @@
+2025-12-15 13:42:34,847 - INFO - Script started
+2025-12-15 13:42:34,851 - INFO - Script START
+2025-12-15 13:42:37,914 - INFO - ====== WebDriver manager ======
+2025-12-15 13:42:40,526 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-15 13:42:40,915 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-15 13:42:40,978 - INFO - Driver [C:\Users\risqi.wijaya\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-15 13:42:45,496 - INFO - 1. Opening backend (1/10): UserID=789876188 Username=one1.casuals
+2025-12-15 13:43:02,639 - INFO - 2. Opening backend (2/10): UserID=1670940434 Username=mrfragrance2
